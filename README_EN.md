@@ -1,0 +1,6 @@
+Project Name: adoafai-macro(c++)
+Project Overview: adoafai-macro(c++) is an open-source project aiming to provide an automation solution for the game “Dance of Fire and Ice”. The project includes an executable main.cpp file, a jsoncpp.cpp for level analysis, and a JSON folder storing the analysis library. Additionally, the project provides an executable file for users to run directly.
+Project Purpose: This project is designed to help “Dance of Fire and Ice” players automate gameplay levels, improving gaming efficiency. By using this project, players can save time and better enjoy the fun brought by the game.
+Technology Stack and Tools: The project is written in C++ and relies on some system-built libraries. The project structure is clear, easy to understand, and expandable.
+Target Audience: This project is suitable for “Dance of Fire and Ice” game players, especially those who want to improve gaming efficiency and save time.
+Caution: Please follow the game rules and use this project reasonably. This project is for learning and entertainment purposes only, and its use for cheating or other malicious activities is prohibited. Any consequences arising from the use of this project shall be borne by the user.
